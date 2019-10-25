@@ -4,5 +4,5 @@ Repository contains my solutions to the [CS589](https://people.cs.umass.edu/~mfi
 
 ### HW1
 - Calculation of F1 Score using a 5 fold cross validation of KNN Classifier
-- Calculation of F1 Score using a 5 fold cross validation of Decision Tree Classifier & plot Depth-Time graph
+- Calculation of F1 Score using a 5 fold cross validation of Decision Tree Classifier & plot depth - time graph
 - Optimize and find best parameters of Decision Tree Classifier using Grid Search - Kaggle Submission
